@@ -18,7 +18,7 @@ require (
 	github.com/siderolabs/go-debug v0.4.0
 	github.com/siderolabs/go-pointer v1.0.0
 	github.com/siderolabs/talos v1.10.0-alpha.0.0.20250120132938-e1efbf656ae9
-	github.com/siderolabs/talos/pkg/machinery v1.10.0-alpha.0.0.20250120132938-e1efbf656ae9
+	github.com/siderolabs/talos/pkg/machinery v1.10.0-alpha.1
 	github.com/sigstore/cosign/v2 v2.4.1
 	github.com/sigstore/sigstore v1.8.12
 	github.com/slok/go-http-metrics v0.13.0
@@ -244,7 +244,7 @@ require (
 	github.com/siderolabs/crypto v0.5.1 // indirect
 	github.com/siderolabs/go-api-signature v0.3.6 // indirect
 	github.com/siderolabs/go-blockdevice v0.4.8 // indirect
-	github.com/siderolabs/go-blockdevice/v2 v2.0.11 // indirect
+	github.com/siderolabs/go-blockdevice/v2 v2.0.13 // indirect
 	github.com/siderolabs/go-circular v0.2.1 // indirect
 	github.com/siderolabs/go-cmd v0.1.3 // indirect
 	github.com/siderolabs/go-copy v0.1.0 // indirect
