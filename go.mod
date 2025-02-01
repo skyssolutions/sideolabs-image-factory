@@ -17,8 +17,8 @@ require (
 	github.com/siderolabs/gen v0.8.0
 	github.com/siderolabs/go-debug v0.4.0
 	github.com/siderolabs/go-pointer v1.0.0
-	github.com/siderolabs/talos v1.10.0-alpha.0.0.20250120132938-e1efbf656ae9
-	github.com/siderolabs/talos/pkg/machinery v1.10.0-alpha.0.0.20250120132938-e1efbf656ae9
+	github.com/siderolabs/talos v1.10.0-alpha.1
+	github.com/siderolabs/talos/pkg/machinery v1.10.0-alpha.1
 	github.com/sigstore/cosign/v2 v2.4.1
 	github.com/sigstore/sigstore v1.8.12
 	github.com/slok/go-http-metrics v0.13.0
@@ -26,7 +26,7 @@ require (
 	github.com/u-root/u-root v0.14.0
 	github.com/ulikunitz/xz v0.5.12
 	go.uber.org/zap v1.27.0
-	golang.org/x/net v0.33.0
+	golang.org/x/net v0.34.0
 	golang.org/x/sync v0.10.0
 	golang.org/x/sys v0.29.0
 	gopkg.in/yaml.v3 v3.0.1
@@ -244,7 +244,7 @@ require (
 	github.com/siderolabs/crypto v0.5.1 // indirect
 	github.com/siderolabs/go-api-signature v0.3.6 // indirect
 	github.com/siderolabs/go-blockdevice v0.4.8 // indirect
-	github.com/siderolabs/go-blockdevice/v2 v2.0.11 // indirect
+	github.com/siderolabs/go-blockdevice/v2 v2.0.13 // indirect
 	github.com/siderolabs/go-circular v0.2.1 // indirect
 	github.com/siderolabs/go-cmd v0.1.3 // indirect
 	github.com/siderolabs/go-copy v0.1.0 // indirect
