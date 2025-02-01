@@ -9,7 +9,7 @@ ARG TOOLCHAIN
 FROM alpine:3.21.2 AS base-image-image-factory
 
 # runs markdownlint
-FROM docker.io/oven/bun:1.1.45-alpine AS lint-markdown
+FROM docker.io/oven/bun:1.2.2-alpine AS lint-markdown
 WORKDIR /src
 RUN bun i markdownlint-cli@0.43.0 sentences-per-line@0.3.0
 COPY .markdownlint.json .
