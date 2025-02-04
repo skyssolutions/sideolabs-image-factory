@@ -2,7 +2,7 @@ module github.com/skyssolutions/siderolabs-image-factory
 
 go 1.23.4
 
-replace github.com/foxboron/go-uefi => github.com/DmitriyMV/go-uefi v0.0.0-20250116094413-7754845fe9f0
+replace github.com/foxboron/go-uefi => github.com/DmitriyMV/go-uefi v0.0.0-20241017190036-fab4fdf2f2f3
 
 replace github.com/siderolabs/image-factory => github.com/skyssolutions/siderolabs-image-factory v0.0.0-20250116233535-c40600ee9c5e
 
